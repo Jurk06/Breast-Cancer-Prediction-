@@ -1,5 +1,12 @@
 # [Applying different machine learning models in predicting the breast cancer among the women of different region and different age.](https://www.kaggle.com/jurk06/breast-cancer-classification)
-To build a breast cancer classifier on an Breast Cancer Winscoin dataset that can accurately classify as benign or malignant. 
+ **Problem Statements** :- To build a breast cancer classifier on an Breast Cancer Winscoin dataset that can accurately classify tumor as benign or malignant based on the dataset given by here. 
+ 
+ 
+ **Real-world/Business objectives and constraints**:- The probelm we have to look in the prespective as mentioned below.
+ * Interpretability is important.
+ * Errors can be very costly.
+ * Probability of a data-point belonging to each class is needed.
+ 
 # Content
     • Introduction
     * Who ay risk? 
@@ -28,7 +35,7 @@ To build a breast cancer classifier on an Breast Cancer Winscoin dataset that ca
   **Who is at risk?**  Breast cancer is not a transmissible or infectious disease. There are no known viral or bacterial infections linked to the development of breast cancer. Certain factors increase the risk of breast cancer including increasing age, obesity, harmful use of alcohol, family history of breast cancer etc.
   
   
- **Dataset:-** Dataset has been collected from open source and is available at through the UW CS ftp server : ftp ftp.cs.wisc.educd math-prog/cpo-dataset/machine-learn/WDBC/.  Besides that it is also available at Kaggle. 
+ **Data Overview** Dataset has been collected from open source and is available at through the UW CS ftp server : ftp ftp.cs.wisc.educd math-prog/cpo-dataset/machine-learn/WDBC/.  Besides that it is also available at Kaggle. WE have single file of dataset which contains 32 features and have 532 rows. Since onne of the columns is response variable while rest of them are explanatory variables.
  ![features name](https://user-images.githubusercontent.com/22790745/132085238-321f22b5-4256-4444-bb96-f7223b6464bc.png)
  It contains 32 features and 532 rows. 
  
@@ -82,6 +89,6 @@ In my case I didn't find such paradox.
  **Logistic Regresion**, **KNN**, **Naive Bayes**, **Decision Tree**, **Random Forest** **SVC**
  
  
- # [Reference1](https://www.kaggle.com/jurk06/breast-cancer-predictionlogisticregression-acc-92)
+ # [Work-1](https://www.kaggle.com/jurk06/breast-cancer-predictionlogisticregression-acc-92)
  
 
