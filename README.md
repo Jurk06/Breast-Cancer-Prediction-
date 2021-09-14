@@ -86,7 +86,7 @@ From the figure it can be observed that there “B” is 62% while “M” is al
 In my case I didn't find such paradox.
 
 
-[Feature Selection Method](https://www.kaggle.com/jurk06/forward-and-backward-subset-selection-method)
+# [Feature Selection Method](https://www.kaggle.com/jurk06/forward-and-backward-subset-selection-method)
 
 * I have done two way of selection method. Forward and backward selectionmethod , these two have been mentioned belwo 
 * Forward subset slelction Method: - ![image](https://user-images.githubusercontent.com/22790745/133207217-0cd0deae-181d-4d0c-a07e-8edea5eb335e.png)
