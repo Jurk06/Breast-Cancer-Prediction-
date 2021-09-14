@@ -85,6 +85,15 @@ From the figure it can be observed that there “B” is 62% while “M” is al
 **Simpson's Paradox**:- We have done slicing of the dataset in order to observe a particular trends in dataset or some kind of the distribution which might be not avilable with the whole dataset. It is called as simpsons's paradox.
 In my case I didn't find such paradox.
 
+
+[Feature Selection Method](https://www.kaggle.com/jurk06/forward-and-backward-subset-selection-method)
+
+* I have done two way of selection method. Forward and backward selectionmethod , these two have been mentioned belwo 
+* Forward subset slelction Method: - ![image](https://user-images.githubusercontent.com/22790745/133207217-0cd0deae-181d-4d0c-a07e-8edea5eb335e.png)
+
+* Backward step selection Method:- ![image](https://user-images.githubusercontent.com/22790745/133207378-3b375e31-3bf5-4647-b80c-1796bfb1b589.png)
+
+
  **Model** :- I have used different models for classfication. 
  **Logistic Regresion**, **KNN**, **Naive Bayes**, **Decision Tree**, **Random Forest** **SVC**
  
