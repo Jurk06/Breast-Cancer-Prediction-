@@ -98,6 +98,10 @@ In my case I didn't find such paradox.
  **Logistic Regresion**, **KNN**, **Naive Bayes**, **Decision Tree**, **Random Forest** **SVC**
  
  
+ # Important Metrics 
+ ![image](https://machinelearningmastery.com/wp-content/uploads/2019/12/How-to-Choose-a-Metric-for-Imbalanced-Classification-latest.png)
+ 
+ 
  # [Work-1](https://www.kaggle.com/jurk06/breast-cancer-predictionlogisticregression-acc-92)
  
 
